@@ -1,0 +1,123 @@
+{
+"mahasiswa" : [{
+  "id": 1,
+  "name": "Grenville Capin",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Edwina Britian",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Shanon Myrkus",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Tait Castellanos",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Roberta Gilhoolie",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Son Kornacki",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Mata Glander",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Niels Bradane",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Jemima Doiley",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Thebault Trebble",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Patrica Quilter",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Cassey Beel",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Benny Treasure",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Jeramey Crofts",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Meris Scotter",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Augie Bonifant",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Bill Stothart",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Port Ghione",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Nolie Amesbury",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Roman Calvard",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Lanni Mossbee",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Ivar Morehall",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Lannie Labone",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Homere Havercroft",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Allegra Dimbleby",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Jeffie Hachard",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Elset Dunnaway",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Earl McEwan",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Clara Pithcock",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Diahann Patey",
+  "gender": "Female"
+}]
+}
